@@ -1,0 +1,9 @@
+.card {
+  display: flex;
+  justify-content: center;
+}
+
+.card__image {
+  max-height: 300px;
+  object-fit: contain !important;
+}
